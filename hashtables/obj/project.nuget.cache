@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TNUdfGHrjQ1jQae3lgMkPh6b69WHA5bGBsy1X0vGv0uFeXZkdxaGMbExsfLI78H8yR9V6n0Q1H8IVrcmVSx3g==",
+  "success": true,
+  "projectFilePath": "/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/hashtables.csproj",
+  "expectedPackageFiles": [
+    "/home/ransom/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/ransom/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/ransom/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.15/microsoft.netcore.app.host.linux-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
