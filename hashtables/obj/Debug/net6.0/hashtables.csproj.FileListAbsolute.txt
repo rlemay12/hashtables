@@ -1,0 +1,15 @@
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.csproj.AssemblyReference.cache
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.GeneratedMSBuildEditorConfig.editorconfig
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.AssemblyInfoInputs.cache
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.AssemblyInfo.cs
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.csproj.CoreCompileInputs.cache
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/bin/Debug/net6.0/hashtables
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/bin/Debug/net6.0/hashtables.deps.json
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/bin/Debug/net6.0/hashtables.runtimeconfig.json
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/bin/Debug/net6.0/hashtables.dll
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/bin/Debug/net6.0/hashtables.pdb
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.dll
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/refint/hashtables.dll
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.pdb
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/hashtables.genruntimeconfig.cache
+/home/ransom/Dropbox/Programming/C#/hashtables/hashtables/obj/Debug/net6.0/ref/hashtables.dll
